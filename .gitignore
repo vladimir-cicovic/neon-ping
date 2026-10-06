@@ -1,0 +1,11 @@
+# runtime data written by the app
+neonping_history.db
+neonping_history.db-wal
+neonping_history.db-shm
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
